@@ -11,6 +11,6 @@ In each folder you can find the project brief and relevant datasets you might ne
 5. Solow model (simulation)
 6. CPI price trends
 7. Gravity model of trade 
-8. Inequality and premature mortality
+8. Inequality
 
 The tutorials folder includes the slides for the weekend.
